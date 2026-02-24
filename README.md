@@ -1,7 +1,7 @@
 # ds3001-project1
 This repository contains our submission for Project 1 for DS 3001.
 
-Contributors: Heer Patel, Neha Jagasia, Arya Suram, Shalmali Rao, Arya Rajesh
+Contributors: Heer Patel, Neha Jagasia, Arya Suram, Shalmali Rao, Arya Rajesh, Eshal Farooq
 askjdfkladsj
 hello
 pineapple is dead
